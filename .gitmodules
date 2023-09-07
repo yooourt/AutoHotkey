@@ -1,0 +1,3 @@
+[submodule "my-stylus"]
+	path = my-stylus
+	url = git@github.com:yooourt/my-stylus.git
